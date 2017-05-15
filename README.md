@@ -1,2 +1,2 @@
-# igvt
-International Ground Vehicle Competition Repository (2017)
+# IGVT
+International Ground Vehicle Team competition repository (2017)
